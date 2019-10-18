@@ -4,7 +4,7 @@ Joshua Sen and Alex Cogelja
 
 - [X] set up node js
 - [X] set up express
-- [ ] set up firebase for database
-- [ ] mulitiple users (login/store user info)
-- [ ] connect to API
-- [ ] hosting using firebase
+- [X] set up firebase for database
+- [X] mulitiple users (login/store user info)
+- [X] connect to API
+- [X] hosting using firebase
